@@ -1,0 +1,15 @@
+PING google.com (142.250.195.142) 56(84) bytes of data.
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=1 ttl=117 time=6.39 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=2 ttl=117 time=6.22 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=3 ttl=117 time=6.16 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=4 ttl=117 time=5.86 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=5 ttl=117 time=5.42 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=6 ttl=117 time=6.61 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=7 ttl=117 time=5.71 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=8 ttl=117 time=14.9 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=9 ttl=117 time=6.55 ms
+64 bytes from maa03s40-in-f14.1e100.net (142.250.195.142): icmp_seq=10 ttl=117 time=6.50 ms
+
+--- google.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 5.423/7.035/14.933/2.658 ms
