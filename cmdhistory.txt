@@ -1,0 +1,508 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  clear
+    4  cd /media/
+    5  ls
+    6  cd yeswanth/
+    7  ls
+    8  cd
+    9  clear
+   10  cd /cdrom
+   11  ls
+   12  apt install gcc make perl
+   13  sudo apt install gcc make perl
+   14  clear
+   15  ls
+   16  cd
+   17  ls
+   18  unmae -a
+   19  uname -a
+   20  clear
+   21  cd /mnt
+   22  ls
+   23  mkdir cd
+   24  sudo mkdir cd
+   25  ls
+   26  clear
+   27  mount /dev/sr0 /mnt/cd/
+   28  sudo mount /dev/sr0 /mnt/cd/
+   29  ls
+   30  cd cd
+   31  ls
+   32  ./VBoxLinuxAdditions.run 
+   33  sudo ./VBoxLinuxAdditions.run 
+   34  clear
+   35  sudo su
+   36  clear
+   37  sudo apt update
+   38  sudo apt upgrade
+   39  clear
+   40  ls
+   41  cd 
+   42  clear
+   43  sudo apt ./'/home/yeswanth/Downloads/code_1.63.0-1638855526_amd64.deb' 
+   44  sudo apt '/home/yeswanth/Downloads/code_1.63.0-1638855526_amd64.deb' 
+   45  cd Desktop/
+   46  sudo apt install git
+   47  clear
+   48  git clone https://github.com/dappuniversity/election.git
+   49  cd election/
+   50  npm install
+   51  sudo apt install npm
+   52  npm install
+   53  npm audit fix
+   54  clear
+   55  truffle
+   56  clear
+   57  cd
+   58  clear
+   59  ganache-'/home/yeswanth/Downloads/ganache-2.5.4-linux-x86_64.AppImage'
+   60  ganache-/home/yeswanth/Downloads/ganache-2.5.4-linux-x86_64.AppImage
+   61  cd /home/yeswanth/Downloads
+   62  ls
+   63  ganache-2.5.4-linux-x86_64.AppImage
+   64  clear
+   65  ls
+   66  chmod u+x ganache-2.5.4-linux-x86_64.AppImage 
+   67  ls
+   68  ganache-2.5.4-linux-x86_64.AppImage 
+   69  run ganache-2.5.4-linux-x86_64.AppImage 
+   70  clear
+   71  ls
+   72  ./ganache-2.5.4-linux-x86_64.AppImage 
+   73  clear
+   74  cd Desktop/
+   75  cd
+   76  cd Downloads/
+   77  ./ganache-2.5.4-linux-x86_64.AppImage 
+   78  clear
+   79  truffle --version
+   80  truffle migrate --reset
+   81  cd Down
+   82  clear
+   83  cd Downloads/
+   84  ./ganache-2.5.4-linux-x86_64.AppImage 
+   85  sudo apt update
+   86  sudo apt upgrade
+   87  clear
+   88  sudo truffle migrate --reset
+   89  clear
+   90  nodejs
+   91  clear
+   92  cd
+   93  cd Desktop/
+   94  clear
+   95  cd election/
+   96  truffle migrate --reset
+   97  cd Downloads/
+   98  ./ganache-2.5.4-linux-x86_64.AppImage 
+   99  ls
+  100  pwd
+  101  clear
+  102  curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+  103  sudo snap install curl
+  104  curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+  105  sudo apt-get install -y nodejs
+  106  node -v
+  107  npm -v
+  108  cd Desktop/
+  109  ls
+  110  cd election/
+  111  node -v
+  112  npm -v
+  113  npm install -g truffle
+  114  sudo npm install -g truffle
+  115  ls
+  116  truffle version
+  117  truffle compile
+  118  truffle develop
+  119  cd Downloads/
+  120  ./ganache-2.5.4-linux-x86_64.AppImage 
+  121  cd Downloads/
+  122  ./ganache-2.5.4-linux-x86_64.AppImage 
+  123  exit
+  124  cd
+  125  cd Desktop/
+  126  cd election/
+  127  truffle migrate --reset
+  128  exit
+  129  cd Desktop/
+  130  cd election/
+  131  truffle migrate --reset
+  132  cd Desktop/
+  133  cd election/
+  134  truffle migrate --reset
+  135  cd Desktop/
+  136  cd election/
+  137  truffle migrate --reset
+  138  solc --version
+  139  clear
+  140  exit
+  141  ping sathyabama.ac.in
+  142  clear
+  143  exit
+  144  ls
+  145  traceback
+  146  clear
+  147  exit
+  148  cd Downlods
+  149  cd Downloads/
+  150  ls
+  151  ./ganache-2.5.4-linux-x86_64.AppImage 
+  152  exit
+  153  cd Desktop/
+  154  cd election/
+  155  npm run dev
+  156  clear
+  157  truffle migrate --reset
+  158  cd
+  159  cd Downloads/
+  160  ./
+  161  ./ganache-2.5.4-linux-x86_64.AppImage 
+  162  truffle migrate --reset
+  163  cd
+  164  cd Desktop/
+  165  cd election/
+  166  truffle migrate --reset
+  167  npm update
+  168  npm install -g npm
+  169  sudo npm install -g npm
+  170  clear
+  171  ls
+  172  sudo npm install
+  173  clear
+  174  truffle -V
+  175  truffle --version
+  176  ls
+  177  clear
+  178  truffle migrate --reset
+  179  cd Downloads/
+  180  ./ganache-2.5.4-linux-x86_64.AppImage 
+  181  cd Desktop/
+  182  cd election/
+  183  clear
+  184  truffle migrate --reset
+  185  npm run dev
+  186  exit
+  187  cd
+  188  Downloads/
+  189  cd Downloads/
+  190  clear
+  191  ./ganache-2.5.4-linux-x86_64.AppImage 
+  192  exit
+  193  cd Desktop/election
+  194  cd
+  195  cd Desktop/election
+  196  ls
+  197  clear
+  198  ls
+  199  clear
+  200  truffle migrate --reset
+  201  npm run dev
+  202  exit
+  203  cd Downloads/
+  204  ./ganache-2.5.4-linux-x86_64.AppImage 
+  205  exit
+  206  sudo apt update
+  207  sudo apt upgrade
+  208  clear
+  209  man
+  210  man man
+  211  clear
+  212  exit
+  213  cd Downloads/
+  214  ./ganache-2.5.4-linux-x86_64.AppImage 
+  215  cd 
+  216  cd Desktop/election/
+  217  truffle migrate --reset
+  218  cd Desktop/
+  219  cd election/
+  220  truffle migrate --reset
+  221  npm run dev
+  222  cd
+  223  Downloads/
+  224  cd Downloads/
+  225  ./ganache-2.5.4-linux-x86_64.AppImage 
+  226  sudo apt update
+  227  sudo apt upgrade
+  228  sudo apt update
+  229  curl ifconfig.me -s
+  230  cd
+  231  cd Desktop/election/
+  232  truffle migrate --reset
+  233  npm run dev
+  234  exit
+  235  cd Downloads/
+  236  ./ganache-2.5.4-linux-x86_64.AppImage 
+  237  exit
+  238  sudo apt update
+  239  sudo apt upgrade
+  240  exit
+  241  cd Downloads/
+  242  ./ganache-2.5.4-linux-x86_64.AppImage 
+  243  cd
+  244  cd Desktop/election/
+  245  truffle migrate --reset
+  246  npm run dev
+  247  nautilus
+  248  clear
+  249  sudo apt update
+  250  clear
+  251  cd Desktop/
+  252  cd election-2019_update/
+  253  clear
+  254  truffle migrate --reset
+  255  npm run dev
+  256  clear
+  257  npm run dev
+  258  exit
+  259  cd 
+  260  cd Downloads/
+  261  ./ganache-2.5.4-linux-x86_64.AppImage 
+  262  exit
+  263  git -V
+  264  git --version
+  265  cls
+  266  clear
+  267  git
+  268  clear
+  269  nautilus
+  270  clear
+  271  cd Desktop/elections/
+  272  ls
+  273  truffle migrate --reset
+  274  clear
+  275  npm run dev
+  276  exit
+  277  cd
+  278  cd Downloads/
+  279  ./ganache-2.5.4-linux-x86_64.AppImage 
+  280  exit
+  281  cd 
+  282  cd Desktop/
+  283  cd elections/
+  284  truffle migrate --reset
+  285  npm run dev
+  286  truffle migrate --reset
+  287  npm run dev
+  288  truffle migrate --reset
+  289  npm run dev
+  290  exit
+  291  cd Downloads/
+  292  ,/
+  293  ./ganache-2.5.4-linux-x86_64.AppImage 
+  294  exit
+  295  nautilus
+  296  git
+  297  clear
+  298  ld
+  299  ls
+  300  clear
+  301  pwd
+  302  ls
+  303  cd
+  304  clear
+  305  cd Desktop/
+  306  clear
+  307  ls
+  308  clear
+  309  mkdir Git_Test
+  310  ls
+  311  cd Git_Test/
+  312  ls
+  313  cleart
+  314  clear
+  315  cls
+  316  clear
+  317  git init
+  318  ls
+  319  ls -
+  320  ls -a
+  321  clear
+  322  touch test.txt
+  323  ls
+  324  git status
+  325  git add .
+  326  git status
+  327  git commit -m "this is a test file"
+  328  git config user.email "thinkbefore673@gmail.com"
+  329  git config user.name "curioustoknowit"
+  330  git commit -m "This is a test commit"
+  331  git status
+  332  vi test.txt
+  333  cd Desktop/
+  334  cd Git_Test/
+  335  vi test.txt
+  336  cd Desktop/Git_Test/
+  337  ls
+  338  ls -a
+  339  git status 
+  340  rm .test.txt.swo
+  341  rm .test.txt.swp
+  342  ls
+  343  ls -a
+  344  git status 
+  345  vi test.txt 
+  346  rm -
+  347  rm --help'
+  348  exit
+  349  clear
+  350  rm man
+  351  man rm
+  352  exit
+  353  cd
+  354  cd Desktop/
+  355  touch key.txt
+  356  vi key.txt 
+  357  cat key.txt 
+  358  exit
+  359  cd Desktop/
+  360  cd elections/
+  361  truffle migrate --reset
+  362  npm run dev
+  363  exit
+  364  cd 
+  365  cd Downloads/
+  366  ./ganache-2.5.4-linux-x86_64.AppImage 
+  367  exit
+  368  ls
+  369  cd Documents/
+  370  ls
+  371  git clone https://github.com/YESWANTH667/Learn-A-Word.git
+  372  ls
+  373  cd Learn-A-Word/
+  374  ls
+  375  clear
+  376  cd
+  377  exit
+  378  cd
+  379  clear
+  380  nautilus
+  381  exit
+  382  cd
+  383  cd Desktop/
+  384  mkdir nikesh
+  385  cd nikesh/
+  386  touch naveen
+  387  ls
+  388  vi naveen 
+  389  cat naveen 
+  390  rm naveen 
+  391  ls
+  392  cd..
+  393  cd ..
+  394  rm nikesh/
+  395  rmdir nikesh/
+  396  clear
+  397  cd'
+  398  exit
+  399  cd
+  400  exit
+  401  sudo apt update
+  402  sudo apt upgrade
+  403  clear
+  404  exit
+  405  cd
+  406  cd Desktop/
+  407  cd elections/
+  408  clear
+  409  truffle migrate --reset
+  410  npm run dev
+  411  exit
+  412  cd Downloads/
+  413  ./ganache-2.5.4-linux-x86_64.AppImage 
+  414  exit
+  415  truffle migrate --reset
+  416  npm run dev
+  417  exit
+  418  cd 
+  419  cd Downloads/
+  420  ./ganache-2.5.4-linux-x86_64.AppImage 
+  421  exit
+  422  cd Desktop/Git_Test/
+  423  ls
+  424  touch test4.txt
+  425  git status
+  426  git add .
+  427  git status
+  428  git commit -m "added test4.txt file"
+  429  git log
+  430  git push origin master
+  431  git log
+  432  git reset fa17d36889f83483c84fb53ef134a254c0fd7c88
+  433  git log
+  434  git fetch
+  435  cls
+  436  clear
+  437  exit
+  438  truffle migrate --reset
+  439  exit
+  440  truffle migrate --reset
+  441  exit
+  442  cd 
+  443  cd Downloads/
+  444  .l
+  445  ./ganache-2.5.4-linux-x86_64.AppImage 
+  446  exit
+  447  npm run dev
+  448  exit
+  449  truffle migrate --reset
+  450  npm run dev
+  451  cd
+  452  Downloads/
+  453  cd Downloads/
+  454  ls
+  455  ./ganache-2.5.4-linux-x86_64.AppImage 
+  456  truffle migrate --reset
+  457  npm run dev
+  458  exit
+  459  cd Downloads/
+  460  cd
+  461  cd Downloads/
+  462  ./ganache-2.5.4-linux-x86_64.AppImage 
+  463  npm run dev
+  464  exit
+  465  cd
+  466  Downloads/
+  467  cd Downloads/
+  468  ls
+  469  ./ganache-2.5.4-linux-x86_64.AppImage 
+  470  exit
+  471  npm run dev
+  472  exit
+  473  cd
+  474  cd Downloads/
+  475  ./ganache-2.5.4-linux-x86_64.AppImage 
+  476  exit
+  477  sudo apt update
+  478  sudo apt upgrade
+  479  clear
+  480  truffle migrate --reset
+  481  npm run dev
+  482  ls
+  483  clear
+  484  cd
+  485  cd Downloads/
+  486  ./ganache-2.5.4-linux-x86_64.AppImage 
+  487  truffle migrate --reset
+  488  npm run dev
+  489  clear
+  490  truffle migrate --reset
+  491  npm run dev
+  492  cd Downloads/
+  493  ./g
+  494  ./ganache-2.5.4-linux-x86_64.AppImage 
+  495  exit
+  496  sudo apt update;clear
+  497  sudo apt update;clear;exit
+  498  sudo apt update
+  499  sudo apt-get upgrade
+  500  clear
+  501  man .
+  502  man
+  503  man find
+  504  history
+  505  sudo apt-get upgrade
+  506  exit
+  507  cd Desktop/Git_Test/;ls
+  508  history > cmdhistory.txt
